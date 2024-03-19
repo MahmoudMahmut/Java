@@ -1,0 +1,17 @@
+  {
+    "idShort": "TypeFahrrad",
+    "displayName": [
+      {
+        "language": "de",
+        "text": "TypeFahrrad"
+      }
+    ],
+    "id": "www.hackerthon.de/ids/aas/TypeFahrrad",
+    "assetInformation": {
+      "assetKind": "Type",
+      "globalAssetId": "www.hackerthon.de/ids/aas/TypeFahrrad",
+      "assetType": "TypeFahrrad"
+    },
+    "submodels": [],
+    "modelType": "AssetAdministrationShell"
+  }
